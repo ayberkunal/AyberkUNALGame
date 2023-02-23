@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/RunnerGame/Scenes/HomePanel.unity
+    guid: b7207e30fc8a2d049862e6f5416c857f
+  - enabled: 1
+    path: Assets/RunnerGame/Scenes/Level1.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/RunnerGame/Scenes/Level2.unity
+    guid: 39434260f7cb8e04cb7b28d02a55e12f
+  - enabled: 1
+    path: Assets/RunnerGame/Scenes/Level3.unity
+    guid: bcf6409837b3b5749be3ad46e234dcee
+  - enabled: 1
+    path: Assets/RunnerGame/Scenes/Level4.unity
+    guid: 14d36b112a4b9a74c9464cb51821433e
+  - enabled: 1
+    path: Assets/RunnerGame/Scenes/Level5.unity
+    guid: fb107bc057849db45956360255940104
+  - enabled: 1
+    path: Assets/RunnerGame/Scenes/GameOverPanel.unity
+    guid: 6e3ba451c3f016243a1dda207088e0e0
+  - enabled: 1
+    path: Assets/RunnerGame/Scenes/FinishPanel.unity
+    guid: a7ff3aef860a266459a10ce902c2c1ab
+  - enabled: 1
+    path: Assets/RunnerGame/Scenes/GameComp.unity
+    guid: 74136cd683ae1af4a956ff8547ee4f44
+  m_configObjects: {}
